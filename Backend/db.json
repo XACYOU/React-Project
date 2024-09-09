@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "name": "Dabur Glucose-D with Calcium for Immunity & Bone Health | Jar 1kg + Red Tooth Paste 200gm Free",
+      "description": "Boost your energy and support your bone health with Dabur Glucose-D enriched with Calcium. Comes with a free 200gm Red Toothpaste for complete oral care.",
+      "rating": 4.5,
+      "originalPrice": 300,
+      "discount": 20,
+      "discountedPrice": 240,
+      "imageSrc": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/7f9b74055d9945ba8adf825d0ab9b69e.jpg",
+      "totalRatings": 1500
+    },
+    {
+      "name": "Friends Premium Adult Dry Pants Medium",
+      "description": "Friends Premium Adult Dry Pants are designed for maximum comfort and protection, ensuring dryness and confidence throughout the day.",
+      "rating": 4.2,
+      "originalPrice": 600,
+      "discount": 25,
+      "discountedPrice": 450,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c79e74a4dbc649399ff185d00de23a53.jpg",
+      "totalRatings": 850
+    },
+    {
+      "name": "Cetaphil Oily Skin Cleanser | For Combination to Oily, Sensitive Skin",
+      "description": "Cetaphil Oily Skin Cleanser effectively removes excess oil without drying out your skin. Ideal for combination to oily, sensitive skin.",
+      "rating": 4.7,
+      "originalPrice": 450,
+      "discount": 15,
+      "discountedPrice": 382,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/d94f5340cbb746b3a0b43be55e49af73.jpg",
+      "totalRatings": 1200
+    },
+    {
+      "name": "Dr Morepen BG 03 Gluco One Glucose Monitoring System Glucometer with Gluco One BG 03 Blood Glucose 25 Test Strip | Diabetes Monitoring Devices | Blood Glucose Monitors",
+      "description": "Monitor your blood glucose levels with ease using the Dr Morepen BG 03 Gluco One Glucose Monitoring System. Comes with 25 test strips.",
+      "rating": 4.6,
+      "originalPrice": 1500,
+      "discount": 30,
+      "discountedPrice": 1050,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/qd8eaznzsf3det7qrytk.jpg",
+      "totalRatings": 900
+    },
+    {
+      "name": "Nicotex Sugar Free Mint Plus Chewing Gums",
+      "description": "Nicotex Sugar Free Mint Plus Chewing Gums help you quit smoking by gradually reducing your nicotine dependence. Fresh mint flavor.",
+      "rating": 4.3,
+      "originalPrice": 200,
+      "discount": 10,
+      "discountedPrice": 180,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bef70ab9f34f45ae86db05f4fe94e1be.jpg",
+      "totalRatings": 300
+    },
+    {
+      "name": "Garlic Pearls Capsule",
+      "description": "Garlic Pearls Capsules support heart health and boost immunity with the natural benefits of garlic.",
+      "rating": 4.1,
+      "originalPrice": 150,
+      "discount": 20,
+      "discountedPrice": 120,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/xfgyllio46ox2tlje8p5.jpg",
+      "totalRatings": 500
+    },
+    {
+      "name": "Patanjali Divya Madhunashini Vati Extra Power",
+      "description": "Patanjali Divya Madhunashini Vati Extra Power helps in managing diabetes naturally and effectively.",
+      "rating": 4.4,
+      "originalPrice": 250,
+      "discount": 15,
+      "discountedPrice": 212,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cmrzmaq7uw07cjvvmmxq.jpg",
+      "totalRatings": 700
+    },
+    {
+      "name": "Omnigel | For Pain Relief From Sprain and Strain | Bone, Joint & Muscle Care",
+      "description": "Omnigel provides quick relief from pain associated with sprains, strains, and joint and muscle issues.",
+      "rating": 4.5,
+      "originalPrice": 220,
+      "discount": 10,
+      "discountedPrice": 198,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bcd06c4e341f4630b4fc02e15bc57f06.jpg",
+      "totalRatings": 650
+    },
+    {
+      "name": "Becosules Z Capsule with Vitamin B Complex, Vitamin C & Zinc",
+      "description": "Becosules Z Capsules provide essential vitamins and minerals to boost your overall health and immunity.",
+      "rating": 4.6,
+      "originalPrice": 200,
+      "discount": 15,
+      "discountedPrice": 170,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/jhd9m6kupfxuaqchyebl.jpg",
+      "totalRatings": 1200
+    },
+    {
+      "name": "Vizylac Rich Capsule",
+      "description": "Vizylac Rich Capsules improve gut health and digestion with a rich blend of probiotics.",
+      "rating": 4.4,
+      "originalPrice": 180,
+      "discount": 20,
+      "discountedPrice": 144,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/pdnaogmh2sjdm9cmjuzf.jpg",
+      "totalRatings": 800
+    },
+    {
+      "name": "Menoease Capsule",
+      "description": "Menoease Capsules support women's health and well-being during menopause with natural ingredients.",
+      "rating": 4.3,
+      "originalPrice": 250,
+      "discount": 25,
+      "discountedPrice": 188,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/mwbddbvllgj4wxjc0b58.jpg",
+      "totalRatings": 400
+    },
+    {
+      "name": "Gerijoint Capsule with Native (Undenatured) Collagen Type II | For Bone, Joint & Muscle Care",
+      "description": "Gerijoint Capsules support joint health and mobility with native undenatured collagen Type II.",
+      "rating": 4.7,
+      "originalPrice": 600,
+      "discount": 20,
+      "discountedPrice": 480,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c53c5bc01ddd4b53b9f13d0daf40a8bf.jpg",
+      "totalRatings": 350
+    },
+    {
+      "name": "The Good Bug Bye Bye Bloat Powder (2gm Each)",
+      "description": "The Good Bug Bye Bye Bloat Powder helps reduce bloating and improve digestion with a natural formula.",
+      "rating": 4.2,
+      "originalPrice": 300,
+      "discount": 15,
+      "discountedPrice": 255,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bd9a4d29b986476984aee86aa5147aa6.jpg",
+      "totalRatings": 200
+    },
+    {
+      "name": "New A to Z Gold Soft Gelatin Capsule with Antioxidants, Multivitamins & Multiminerals",
+      "description": "New A to Z Gold Soft Gelatin Capsules provide a comprehensive blend of antioxidants, multivitamins, and multiminerals for overall health.",
+      "rating": 4.6,
+      "originalPrice": 500,
+      "discount": 20,
+      "discountedPrice": 400,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/1ff3c6e3d5f640648302a348769283a6.jpg",
+      "totalRatings": 900
+    },
+    {
+      "name": "Hansaplast Jumbo Antiseptic Larger Wound Pad",
+      "description": "Hansaplast Jumbo Antiseptic Wound Pads offer superior protection and healing for larger wounds.",
+      "rating": 4.3,
+      "originalPrice": 100,
+      "discount": 10,
+      "discountedPrice": 90,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/zx0zcwuzlux5nonem7kp.jpg",
+      "totalRatings": 300
+    },
+    {
+      "name": "Dr. Korpet 3 in 1 Steamer, Vaporizers, Steam Inhaler, Facial Steamer Vaporiser for Cold and Cough 1 m",
+      "description": "Dr. Korpet 3 in 1 Steamer is a versatile device for steaming, vaporizing, and facial treatments, ideal for cold and cough relief.",
+      "rating": 4.4,
+      "originalPrice": 300,
+      "discount": 25,
+      "discountedPrice": 225,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c5f3c16a6f2543a7ad8e590698d65c57.jpg",
+      "totalRatings": 1000
+    },
+    {
+      "name": "Dettol Antiseptic Disinfectant Liquid",
+      "description": "Dettol Antiseptic Disinfectant Liquid is a trusted solution for protecting against germs and infections.",
+      "rating": 4.8,
+      "originalPrice": 200,
+      "discount": 15,
+      "discountedPrice": 170,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/kyrgeqzfjsrppx5awaru.jpg",
+      "totalRatings": 1100
+    },
+    {
+      "name": "Tata 1mg Hot Water Bag | Hot Water Bottle for Pain Relief and Cramps 2 Liter Red",
+      "description": "Tata 1mg Hot Water Bag provides effective pain relief and comfort for cramps and muscle aches.",
+      "rating": 4.6,
+      "originalPrice": 150,
+      "discount": 20,
+      "discountedPrice": 120,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/1be9ae98a99e444f907561aed41017d5.jpg",
+      "totalRatings": 450
+    },
+    {
+      "name": "Zingavita Omega 3 + Multivitamin Soft Gelatin Capsule for Heart, Bone & Immunity Support | with Omega-3, Vitamins & Minerals",
+      "description": "Zingavita Omega 3 + Multivitamin Capsules support heart, bone, and immunity health with a blend of Omega-3, vitamins, and minerals.",
+      "rating": 4.5,
+      "originalPrice": 600,
+      "discount": 25,
+      "discountedPrice": 450,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/b0659ee09e0b483d811ad36f63c84338.jpg",
+      "totalRatings": 300
+    },
+    {
+      "name": "Zingavita Multivitamin Tablet for Women with Iron | For Immunity, Hair, & Skin | Bone, Joint & Muscle Care",
+      "description": "Zingavita Multivitamin Tablets for Women support overall health, including immunity, hair, skin, and bone health.",
+      "rating": 4.3,
+      "originalPrice": 500,
+      "discount": 20,
+      "discountedPrice": 400,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/74eb43e493774f84a1067db09ff9e7f5.jpg",
+      "totalRatings": 600
+    },
+    {
+      "name": "La Shield Expert Urban Protect Mineral Sunscreen Gel | UVA/UVB Protection | Paraben-Free | SPF 50",
+      "description": "La Shield Expert Urban Protect Mineral Sunscreen Gel offers broad-spectrum UVA/UVB protection with SPF 50. Paraben-free formula.",
+      "rating": 4.6,
+      "originalPrice": 700,
+      "discount": 30,
+      "discountedPrice": 490,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/nemijunjmopkbrrr0196.jpg",
+      "totalRatings": 550
+    },
+    {
+      "name": "mCaffeine Coffee Body Wash with Berries | De-Tan & Deep Cleansing Shower Gel with Almonds",
+      "description": "mCaffeine Coffee Body Wash with Berries provides deep cleansing and de-tan benefits for refreshed skin.",
+      "rating": 4.4,
+      "originalPrice": 350,
+      "discount": 15,
+      "discountedPrice": 298,
+      "imageSrc": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/4b7393e376f449bd947201f62d8b6182.jpg",
+      "totalRatings": 400
+    }
+  ]
+}
