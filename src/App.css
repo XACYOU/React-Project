@@ -1,0 +1,33 @@
+.pulse-badge {
+    animation: pulse-animation 1s infinite;
+  }
+@keyframes pulse-animation {
+  0% {
+    box-shadow: 0 0 0 0px #f7a59e;
+  }
+
+  100% {
+    box-shadow: 0 0 0 10px #f3e7e5;
+  }
+}
+
+/* carousel.css */
+.slick-dots {
+  position: absolute;
+  top: -25px; /* Adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex !important;
+  justify-content: center;
+  width: 100%;
+  z-index: 1; /* Ensure dots are above the image */
+}
+
+.slick-dots li button:before {
+  font-size: 24px; /* Adjust as needed */
+  color: white; /* Change to desired color */
+}
+
+.slick-dots li.slick-active button:before {
+  color: white; /* Change to desired color for active dot */
+}
