@@ -2,10 +2,9 @@ import React from 'react'
 import Home from '../Pages/Home'
 import Login from '../Pages/Login'
 import SignUp from '../Pages/SignUp'
-
-import { Routes, Route } from 'react-router-dom'
 import ProductListing from '../Pages/ProductListing'
 import ProductDetails from '../Pages/ProductDetails'
+import { Routes, Route } from 'react-router-dom'
 
 const AllRoutes = () => {
   return (

@@ -110,7 +110,7 @@ export default function HealthCheckupCategory() {
         </Button>
       </HStack>
       <VStack width="100%" boxShadow="2xl" bg="#ffffff" p={4} borderRadius="md">
-        <Box my={6} width="75%" position="relative">
+        <Box my={6} w="95%" position="relative">
           <IconButton
             icon={<ChevronLeftIcon boxSize={8} />}
             onClick={handlePrevClick}
@@ -134,7 +134,7 @@ export default function HealthCheckupCategory() {
             {visibleCategories.map((category, index) => (
               <VStack
                 key={index}
-                border="1px solid"
+                border="1px solid "
                 borderColor="gray.200"
                 borderRadius="md"
                 overflow="hidden"
